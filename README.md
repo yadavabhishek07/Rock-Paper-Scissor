@@ -21,13 +21,6 @@ An interactive, browser-based Rock-Paper-Scissors game featuring real-time score
 
 ---
 
-## Getting Started
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/yadavabhishek07/Rock-Paper-Scissor.git
-cd Rock-Paper-Scissor
-```
 
 ### 2. Run the application
 Open `index.html` in any web browser to start playing immediately.
